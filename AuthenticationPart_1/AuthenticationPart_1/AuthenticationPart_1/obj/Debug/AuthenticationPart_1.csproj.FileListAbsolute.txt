@@ -1,0 +1,99 @@
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\ApplicationInsights.config
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\csc.exe
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\vbc.exe
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\VBCSCompiler.exe
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\AuthenticationPart_1.dll.config
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\AuthenticationPart_1.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\AuthenticationPart_1.pdb
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\EntityFramework.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\EntityFramework.SqlServer.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.Web.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.ApplicationInsights.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Helpers.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Mvc.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Razor.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Webpages.Deployment.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Webpages.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Webpages.Razor.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\EntityFramework.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\EntityFramework.SqlServer.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.Web.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.ApplicationInsights.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Razor.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Webpages.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Webpages.Deployment.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Webpages.Razor.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Helpers.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Mvc.xml
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\obj\Debug\AuthenticationPart_1.dll
+c:\users\shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\obj\Debug\AuthenticationPart_1.pdb
+C:\Users\Shuja\documents\visual studio 2015\Projects\AuthenticationPart_1\AuthenticationPart_1\obj\Debug\AuthenticationPart_1.csprojResolveAssemblyReference.cache
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\ApplicationInsights.config
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\csc.exe
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\System.Collections.Immutable.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\vbc.exe
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\VBCSCompiler.exe
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\roslyn\VBCSCompiler.exe.config
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\AuthenticationPart_1.dll.config
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\AuthenticationPart_1.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\AuthenticationPart_1.pdb
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\EntityFramework.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\EntityFramework.SqlServer.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.Web.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.WindowsServer.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.ApplicationInsights.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Helpers.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Mvc.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Razor.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Webpages.Deployment.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Webpages.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Webpages.Razor.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\EntityFramework.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\EntityFramework.SqlServer.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.Web.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.AI.WindowsServer.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.ApplicationInsights.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Razor.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Webpages.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Webpages.Deployment.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Webpages.Razor.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Helpers.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\bin\System.Web.Mvc.xml
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\obj\Debug\AuthenticationPart_1.csprojResolveAssemblyReference.cache
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\obj\Debug\AuthenticationPart_1.dll
+E:\Ahmer\AuthenticationPart_1\AuthenticationPart_1\AuthenticationPart_1\obj\Debug\AuthenticationPart_1.pdb

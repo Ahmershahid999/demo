@@ -1,0 +1,32 @@
+﻿@model IEnumerable<AuthenticationPart_1.Models.Depart>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DepName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HOD)
+        </th>
+       
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DepName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HOD)
+        </td>
+        
+    </tr>
+}
+
+</table>
